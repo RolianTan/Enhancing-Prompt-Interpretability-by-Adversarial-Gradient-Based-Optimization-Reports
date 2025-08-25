@@ -1,2 +1,3 @@
-# Poster
-![Alt text](GenAI_Poster.pdf)
+# Repo includes:
+1. Poster
+2. Report Essay
