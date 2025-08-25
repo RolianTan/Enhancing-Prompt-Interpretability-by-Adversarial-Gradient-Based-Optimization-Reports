@@ -1,2 +1,2 @@
 # Poster
-![Alt text](images/screenshot.png)
+![Alt text](GenAI_Poster.pdf)
